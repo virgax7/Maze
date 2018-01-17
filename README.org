@@ -1,0 +1,4 @@
+Just a fun little program I wrote to generate mazes using dfs, during studying graphs...
+
+
+package corresponds to the Graphs repo
